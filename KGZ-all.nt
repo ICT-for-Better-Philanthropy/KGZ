@@ -1,0 +1,661 @@
+<http://kgz.uinjkt.ac.id/#17_tahun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Waktu> .
+<http://kgz.uinjkt.ac.id/#17_tahun> <http://www.w3.org/2000/01/rdf-schema#label> "17 tahun" .
+<http://kgz.uinjkt.ac.id/#Azas_Pengelolaan_Zakat> <http://www.w3.org/2000/01/rdf-schema#label> "Azas Pengelolaan Zakat" .
+<http://kgz.uinjkt.ac.id/#Binatang_Ternak> <http://www.w3.org/2000/01/rdf-schema#label> "Binatang Ternak" .
+<http://kgz.uinjkt.ac.id/#Harta> <http://www.w3.org/2000/01/rdf-schema#label> "Harta" .
+<http://kgz.uinjkt.ac.id/#Haul> <http://www.w3.org/2000/01/rdf-schema#label> "Haul" .
+<http://kgz.uinjkt.ac.id/#Lainnya> <http://www.w3.org/2000/01/rdf-schema#label> "Lainnya" .
+<http://kgz.uinjkt.ac.id/#Lembaga_Pengelola_Zakat> <http://www.w3.org/2000/01/rdf-schema#label> "Lembaga Pengelola Zakat" .
+<http://kgz.uinjkt.ac.id/#Location> <http://www.w3.org/2000/01/rdf-schema#label> "Location" .
+<http://kgz.uinjkt.ac.id/#Logam_Mulia> <http://www.w3.org/2000/01/rdf-schema#label> "Logam Mulia" .
+<http://kgz.uinjkt.ac.id/#Makanan_Pokok> <http://www.w3.org/2000/01/rdf-schema#label> "Makanan Pokok" .
+<http://kgz.uinjkt.ac.id/#Mustahik> <http://www.w3.org/2000/01/rdf-schema#label> "Mustahik" .
+<http://kgz.uinjkt.ac.id/#Muzaki> <http://www.w3.org/2000/01/rdf-schema#label> "Muzaki" .
+<http://kgz.uinjkt.ac.id/#Nisab> <http://www.w3.org/2000/01/rdf-schema#label> "Nisab" .
+<http://kgz.uinjkt.ac.id/#Organization> <http://www.w3.org/2000/01/rdf-schema#label> "Organization" .
+<http://kgz.uinjkt.ac.id/#Pekerjaan> <http://www.w3.org/2000/01/rdf-schema#label> "Pekerjaan" .
+<http://kgz.uinjkt.ac.id/#Pengelolaan_Zakat> <http://www.w3.org/2000/01/rdf-schema#label> "Pengelolaan Zakat" .
+<http://kgz.uinjkt.ac.id/#Person> <http://www.w3.org/2000/01/rdf-schema#label> "Person" .
+<http://kgz.uinjkt.ac.id/#Regulasi> <http://www.w3.org/2000/01/rdf-schema#label> "Regulasi" .
+<http://kgz.uinjkt.ac.id/#Tarif_Zakat> <http://www.w3.org/2000/01/rdf-schema#label> "Tarif Zakat" .
+<http://kgz.uinjkt.ac.id/#Zakat> <http://www.w3.org/2000/01/rdf-schema#label> "Zakat" .
+<http://kgz.uinjkt.ac.id/#Zakat_Maal> <http://www.w3.org/2000/01/rdf-schema#label> "Zakat Maal" .
+<http://kgz.uinjkt.ac.id/#abu_bakr_ash-shiddiq> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Person> .
+<http://kgz.uinjkt.ac.id/#abu_bakr_ash-shiddiq> <http://www.w3.org/2000/01/rdf-schema#label> "abu bakr ash-shiddiq" .
+<http://kgz.uinjkt.ac.id/#abu_burdah> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Person> .
+<http://kgz.uinjkt.ac.id/#abu_burdah> <http://www.w3.org/2000/01/rdf-schema#label> "abu burdah" .
+<http://kgz.uinjkt.ac.id/#abu_dawud> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Person> .
+<http://kgz.uinjkt.ac.id/#abu_dawud> <http://www.w3.org/2000/01/rdf-schema#label> "abu dawud" .
+<http://kgz.uinjkt.ac.id/#abu_musa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Person> .
+<http://kgz.uinjkt.ac.id/#abu_musa> <http://www.w3.org/2000/01/rdf-schema#label> "abu musa" .
+<http://kgz.uinjkt.ac.id/#abu_zahrah> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Person> .
+<http://kgz.uinjkt.ac.id/#abu_zahrah> <http://www.w3.org/2000/01/rdf-schema#label> "abu zahrah" .
+<http://kgz.uinjkt.ac.id/#ad-daruquthni> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Person> .
+<http://kgz.uinjkt.ac.id/#ad-daruquthni> <http://www.w3.org/2000/01/rdf-schema#label> "ad-daruquthni" .
+<http://kgz.uinjkt.ac.id/#adalah> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://kgz.uinjkt.ac.id/#adalah> <http://www.w3.org/2000/01/rdf-schema#domain> <http://kgz.uinjkt.ac.id/#Lembaga_Amil_Zakat> .
+<http://kgz.uinjkt.ac.id/#adalah> <http://www.w3.org/2000/01/rdf-schema#domain> <http://kgz.uinjkt.ac.id/#Lembaga_Pengelola_Zakat> .
+<http://kgz.uinjkt.ac.id/#adalah> <http://www.w3.org/2000/01/rdf-schema#domain> <http://kgz.uinjkt.ac.id/#Mustahik> .
+<http://kgz.uinjkt.ac.id/#adalah> <http://www.w3.org/2000/01/rdf-schema#domain> <http://kgz.uinjkt.ac.id/#Zakat_Maal> .
+<http://kgz.uinjkt.ac.id/#adalah> <http://www.w3.org/2000/01/rdf-schema#range> <http://www.w3.org/2000/01/rdf-schema#Literal> .
+<http://kgz.uinjkt.ac.id/#akuntabilitas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Azas_Pengelolaan_Zakat> .
+<http://kgz.uinjkt.ac.id/#akuntabilitas> <http://www.w3.org/2000/01/rdf-schema#label> "akuntabilitas" .
+<http://kgz.uinjkt.ac.id/#ali_ra> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Person> .
+<http://kgz.uinjkt.ac.id/#ali_ra> <http://www.w3.org/2000/01/rdf-schema#label> "ali ra" .
+<http://kgz.uinjkt.ac.id/#amanah> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Azas_Pengelolaan_Zakat> .
+<http://kgz.uinjkt.ac.id/#amanah> <http://www.w3.org/2000/01/rdf-schema#label> "amanah" .
+<http://kgz.uinjkt.ac.id/#amil_zakat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Mustahik> .
+<http://kgz.uinjkt.ac.id/#amil_zakat> <http://www.w3.org/2000/01/rdf-schema#label> "amil zakat" .
+<http://kgz.uinjkt.ac.id/#anak_yatim> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Person> .
+<http://kgz.uinjkt.ac.id/#anak_yatim> <http://www.w3.org/2000/01/rdf-schema#label> "anak yatim" .
+<http://kgz.uinjkt.ac.id/#anas_bin_malik> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Person> .
+<http://kgz.uinjkt.ac.id/#anas_bin_malik> <http://www.w3.org/2000/01/rdf-schema#label> "anas bin malik" .
+<http://kgz.uinjkt.ac.id/#anggota> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Person> .
+<http://kgz.uinjkt.ac.id/#anggota> <http://www.w3.org/2000/01/rdf-schema#label> "anggota" .
+<http://kgz.uinjkt.ac.id/#aqith> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Makanan_Pokok> .
+<http://kgz.uinjkt.ac.id/#aqith> <http://www.w3.org/2000/01/rdf-schema#label> "aqith" .
+<http://kgz.uinjkt.ac.id/#badan_amil_zakat> <http://kgz.uinjkt.ac.id/#adalah> "organisasi pengelolaan zakat" .
+<http://kgz.uinjkt.ac.id/#badan_amil_zakat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Lembaga_Pengelola_Zakat> .
+<http://kgz.uinjkt.ac.id/#badan_amil_zakat> <http://www.w3.org/2000/01/rdf-schema#label> "badan amil zakat" .
+<http://kgz.uinjkt.ac.id/#badan_amil_zakat_daerah_kabupaten_kota> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Lembaga_Pengelola_Zakat> .
+<http://kgz.uinjkt.ac.id/#badan_amil_zakat_daerah_kabupaten_kota> <http://www.w3.org/2000/01/rdf-schema#label> "badan amil zakat daerah kabupaten kota" .
+<http://kgz.uinjkt.ac.id/#badan_amil_zakat_daerah_provinsi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Lembaga_Pengelola_Zakat> .
+<http://kgz.uinjkt.ac.id/#badan_amil_zakat_daerah_provinsi> <http://www.w3.org/2000/01/rdf-schema#label> "badan amil zakat daerah provinsi" .
+<http://kgz.uinjkt.ac.id/#badan_amil_zakat_nasional> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Lembaga_Pengelola_Zakat> .
+<http://kgz.uinjkt.ac.id/#badan_amil_zakat_nasional> <http://www.w3.org/2000/01/rdf-schema#label> "badan amil zakat nasional" .
+<http://kgz.uinjkt.ac.id/#badan_hukum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Organization> .
+<http://kgz.uinjkt.ac.id/#badan_hukum> <http://www.w3.org/2000/01/rdf-schema#label> "badan hukum" .
+<http://kgz.uinjkt.ac.id/#badan_usaha> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Organization> .
+<http://kgz.uinjkt.ac.id/#badan_usaha> <http://www.w3.org/2000/01/rdf-schema#label> "badan usaha" .
+<http://kgz.uinjkt.ac.id/#badan_usaha_milik> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Organization> .
+<http://kgz.uinjkt.ac.id/#badan_usaha_milik> <http://www.w3.org/2000/01/rdf-schema#label> "badan usaha milik" .
+<http://kgz.uinjkt.ac.id/#badan_usaha_milik_daerah> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Organization> .
+<http://kgz.uinjkt.ac.id/#badan_usaha_milik_daerah> <http://www.w3.org/2000/01/rdf-schema#label> "badan usaha milik daerah" .
+<http://kgz.uinjkt.ac.id/#barang_dagangan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Harta> .
+<http://kgz.uinjkt.ac.id/#barang_dagangan> <http://www.w3.org/2000/01/rdf-schema#label> "barang dagangan" .
+<http://kgz.uinjkt.ac.id/#baznas> <http://kgz.uinjkt.ac.id/#diangkat_atas> "usul Menteri" .
+<http://kgz.uinjkt.ac.id/#baznas> <http://kgz.uinjkt.ac.id/#diangkat_oleh> <http://kgz.uinjkt.ac.id/#presiden> .
+<http://kgz.uinjkt.ac.id/#baznas> <http://kgz.uinjkt.ac.id/#diatur_dalam> <http://kgz.uinjkt.ac.id/#peraturan_pemerintah> .
+<http://kgz.uinjkt.ac.id/#baznas> <http://kgz.uinjkt.ac.id/#memberikan> "bukti setoran zakat" .
+<http://kgz.uinjkt.ac.id/#baznas> <http://kgz.uinjkt.ac.id/#menerima> "pembayaran zakat fitrah" .
+<http://kgz.uinjkt.ac.id/#baznas> <http://kgz.uinjkt.ac.id/#menyampaikan> <http://kgz.uinjkt.ac.id/#laporan_pelaksanaan_pengelolaan_zakat> .
+<http://kgz.uinjkt.ac.id/#baznas> <http://kgz.uinjkt.ac.id/#merupakan> "lembaga pemerintah nonstruktural" .
+<http://kgz.uinjkt.ac.id/#baznas> <http://kgz.uinjkt.ac.id/#terdiri> "( sebelas ) orang anggota" .
+<http://kgz.uinjkt.ac.id/#baznas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Lembaga_Pengelola_Zakat> .
+<http://kgz.uinjkt.ac.id/#baznas> <http://www.w3.org/2000/01/rdf-schema#label> "baznas" .
+<http://kgz.uinjkt.ac.id/#baznas_kabupaten_kota> <http://kgz.uinjkt.ac.id/#diatur_dalam> <http://kgz.uinjkt.ac.id/#peraturan_pemerintah> .
+<http://kgz.uinjkt.ac.id/#baznas_kabupaten_kota> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Lembaga_Pengelola_Zakat> .
+<http://kgz.uinjkt.ac.id/#baznas_kabupaten_kota> <http://www.w3.org/2000/01/rdf-schema#label> "baznas kabupaten kota" .
+<http://kgz.uinjkt.ac.id/#baznas_provinsi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Lembaga_Pengelola_Zakat> .
+<http://kgz.uinjkt.ac.id/#baznas_provinsi> <http://www.w3.org/2000/01/rdf-schema#label> "baznas provinsi" .
+<http://kgz.uinjkt.ac.id/#beras> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Makanan_Pokok> .
+<http://kgz.uinjkt.ac.id/#beras> <http://www.w3.org/2000/01/rdf-schema#label> "beras" .
+<http://kgz.uinjkt.ac.id/#berupa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://kgz.uinjkt.ac.id/#berupa> <http://www.w3.org/2000/01/rdf-schema#domain> <http://kgz.uinjkt.ac.id/#Zakat> .
+<http://kgz.uinjkt.ac.id/#berupa> <http://www.w3.org/2000/01/rdf-schema#range> <http://www.w3.org/2000/01/rdf-schema#Literal> .
+<http://kgz.uinjkt.ac.id/#besi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Logam_Mulia> .
+<http://kgz.uinjkt.ac.id/#besi> <http://www.w3.org/2000/01/rdf-schema#label> "besi" .
+<http://kgz.uinjkt.ac.id/#bintu_labun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Binatang_Ternak> .
+<http://kgz.uinjkt.ac.id/#bintu_labun> <http://www.w3.org/2000/01/rdf-schema#label> "bintu labun" .
+<http://kgz.uinjkt.ac.id/#bintu_makhod> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Binatang_Ternak> .
+<http://kgz.uinjkt.ac.id/#bintu_makhod> <http://www.w3.org/2000/01/rdf-schema#label> "bintu makhod" .
+<http://kgz.uinjkt.ac.id/#bulan_ramadhan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Haul> .
+<http://kgz.uinjkt.ac.id/#bulan_ramadhan> <http://www.w3.org/2000/01/rdf-schema#label> "bulan ramadhan" .
+<http://kgz.uinjkt.ac.id/#bupati_walikota> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Person> .
+<http://kgz.uinjkt.ac.id/#bupati_walikota> <http://www.w3.org/2000/01/rdf-schema#label> "bupati walikota" .
+<http://kgz.uinjkt.ac.id/#coorporate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Organization> .
+<http://kgz.uinjkt.ac.id/#coorporate> <http://www.w3.org/2000/01/rdf-schema#label> "coorporate" .
+<http://kgz.uinjkt.ac.id/#dewan_perwakilan_rakyat_republik_indonesia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Organization> .
+<http://kgz.uinjkt.ac.id/#dewan_perwakilan_rakyat_republik_indonesia> <http://www.w3.org/2000/01/rdf-schema#label> "dewan perwakilan rakyat republik indonesia" .
+<http://kgz.uinjkt.ac.id/#diangkat_atas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://kgz.uinjkt.ac.id/#diangkat_atas> <http://www.w3.org/2000/01/rdf-schema#domain> <http://kgz.uinjkt.ac.id/#Lembaga_Pengelola_Zakat> .
+<http://kgz.uinjkt.ac.id/#diangkat_atas> <http://www.w3.org/2000/01/rdf-schema#range> <http://www.w3.org/2000/01/rdf-schema#Literal> .
+<http://kgz.uinjkt.ac.id/#diangkat_oleh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://kgz.uinjkt.ac.id/#diangkat_oleh> <http://www.w3.org/2000/01/rdf-schema#domain> <http://kgz.uinjkt.ac.id/#Lembaga_Pengelola_Zakat> .
+<http://kgz.uinjkt.ac.id/#diangkat_oleh> <http://www.w3.org/2000/01/rdf-schema#range> <http://kgz.uinjkt.ac.id/#Organization> .
+<http://kgz.uinjkt.ac.id/#diatur_dalam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://kgz.uinjkt.ac.id/#diatur_dalam> <http://www.w3.org/2000/01/rdf-schema#domain> <http://kgz.uinjkt.ac.id/#Lembaga_Pengelola_Zakat> .
+<http://kgz.uinjkt.ac.id/#diatur_dalam> <http://www.w3.org/2000/01/rdf-schema#domain> <http://kgz.uinjkt.ac.id/#Location> .
+<http://kgz.uinjkt.ac.id/#diatur_dalam> <http://www.w3.org/2000/01/rdf-schema#range> <http://kgz.uinjkt.ac.id/#Regulasi> .
+<http://kgz.uinjkt.ac.id/#dikeluarkan_dari> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://kgz.uinjkt.ac.id/#dikeluarkan_dari> <http://www.w3.org/2000/01/rdf-schema#domain> <http://kgz.uinjkt.ac.id/#Harta> .
+<http://kgz.uinjkt.ac.id/#dikeluarkan_dari> <http://www.w3.org/2000/01/rdf-schema#domain> <http://kgz.uinjkt.ac.id/#Zakat_Maal> .
+<http://kgz.uinjkt.ac.id/#dikeluarkan_dari> <http://www.w3.org/2000/01/rdf-schema#range> <http://www.w3.org/2000/01/rdf-schema#Literal> .
+<http://kgz.uinjkt.ac.id/#dikeluarkan_sebelum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://kgz.uinjkt.ac.id/#dikeluarkan_sebelum> <http://www.w3.org/2000/01/rdf-schema#domain> <http://kgz.uinjkt.ac.id/#Zakat> .
+<http://kgz.uinjkt.ac.id/#dikeluarkan_sebelum> <http://www.w3.org/2000/01/rdf-schema#range> <http://www.w3.org/2000/01/rdf-schema#Literal> .
+<http://kgz.uinjkt.ac.id/#dikukuhkan_oleh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://kgz.uinjkt.ac.id/#dikukuhkan_oleh> <http://www.w3.org/2000/01/rdf-schema#domain> <http://kgz.uinjkt.ac.id/#Lembaga_Pengelola_Zakat> .
+<http://kgz.uinjkt.ac.id/#dikukuhkan_oleh> <http://www.w3.org/2000/01/rdf-schema#range> <http://kgz.uinjkt.ac.id/#Person> .
+<http://kgz.uinjkt.ac.id/#diwajibkan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://kgz.uinjkt.ac.id/#diwajibkan> <http://www.w3.org/2000/01/rdf-schema#domain> <http://kgz.uinjkt.ac.id/#Zakat> .
+<http://kgz.uinjkt.ac.id/#diwajibkan> <http://www.w3.org/2000/01/rdf-schema#range> <http://www.w3.org/2000/01/rdf-schema#Literal> .
+<http://kgz.uinjkt.ac.id/#domba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Binatang_Ternak> .
+<http://kgz.uinjkt.ac.id/#domba> <http://www.w3.org/2000/01/rdf-schema#label> "domba" .
+<http://kgz.uinjkt.ac.id/#domba_kambing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Binatang_Ternak> .
+<http://kgz.uinjkt.ac.id/#domba_kambing> <http://www.w3.org/2000/01/rdf-schema#label> "domba kambing" .
+<http://kgz.uinjkt.ac.id/#dompet_dhuafa> <http://kgz.uinjkt.ac.id/#adalah> "lembaga nirlaba milik masyarakat indonesia yang berkhidmat mengangkat harkat sosial kemanusiaan kaum dhuafa" .
+<http://kgz.uinjkt.ac.id/#dompet_dhuafa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Lembaga_Amil_Zakat> .
+<http://kgz.uinjkt.ac.id/#dompet_dhuafa> <http://www.w3.org/2000/01/rdf-schema#label> "dompet dhuafa" .
+<http://kgz.uinjkt.ac.id/#dompet_dhuafa_republika> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Lembaga_Amil_Zakat> .
+<http://kgz.uinjkt.ac.id/#dompet_dhuafa_republika> <http://www.w3.org/2000/01/rdf-schema#label> "dompet dhuafa republika" .
+<http://kgz.uinjkt.ac.id/#emas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Logam_Mulia> .
+<http://kgz.uinjkt.ac.id/#emas> <http://www.w3.org/2000/01/rdf-schema#label> "emas" .
+<http://kgz.uinjkt.ac.id/#fakir> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Mustahik> .
+<http://kgz.uinjkt.ac.id/#fakir> <http://www.w3.org/2000/01/rdf-schema#label> "fakir" .
+<http://kgz.uinjkt.ac.id/#gandum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Makanan_Pokok> .
+<http://kgz.uinjkt.ac.id/#gandum> <http://www.w3.org/2000/01/rdf-schema#label> "gandum" .
+<http://kgz.uinjkt.ac.id/#gandum_halus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Makanan_Pokok> .
+<http://kgz.uinjkt.ac.id/#gandum_halus> <http://www.w3.org/2000/01/rdf-schema#label> "gandum halus" .
+<http://kgz.uinjkt.ac.id/#gandum_kasar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Makanan_Pokok> .
+<http://kgz.uinjkt.ac.id/#gandum_kasar> <http://www.w3.org/2000/01/rdf-schema#label> "gandum kasar" .
+<http://kgz.uinjkt.ac.id/#ghanam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Binatang_Ternak> .
+<http://kgz.uinjkt.ac.id/#ghanam> <http://www.w3.org/2000/01/rdf-schema#label> "ghanam" .
+<http://kgz.uinjkt.ac.id/#gubernur> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Organization> .
+<http://kgz.uinjkt.ac.id/#gubernur> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Person> .
+<http://kgz.uinjkt.ac.id/#gubernur> <http://www.w3.org/2000/01/rdf-schema#label> "gubernur" .
+<http://kgz.uinjkt.ac.id/#hiqqoh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Binatang_Ternak> .
+<http://kgz.uinjkt.ac.id/#hiqqoh> <http://www.w3.org/2000/01/rdf-schema#label> "hiqqoh" .
+<http://kgz.uinjkt.ac.id/#ialah> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://kgz.uinjkt.ac.id/#ialah> <http://www.w3.org/2000/01/rdf-schema#domain> <http://kgz.uinjkt.ac.id/#Mustahik> .
+<http://kgz.uinjkt.ac.id/#ialah> <http://www.w3.org/2000/01/rdf-schema#range> <http://www.w3.org/2000/01/rdf-schema#Literal> .
+<http://kgz.uinjkt.ac.id/#ibu_kota_negara> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Location> .
+<http://kgz.uinjkt.ac.id/#ibu_kota_negara> <http://www.w3.org/2000/01/rdf-schema#label> "ibu kota negara" .
+<http://kgz.uinjkt.ac.id/#imam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Person> .
+<http://kgz.uinjkt.ac.id/#imam> <http://www.w3.org/2000/01/rdf-schema#label> "imam" .
+<http://kgz.uinjkt.ac.id/#imam_ahmad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Person> .
+<http://kgz.uinjkt.ac.id/#imam_ahmad> <http://www.w3.org/2000/01/rdf-schema#label> "imam ahmad" .
+<http://kgz.uinjkt.ac.id/#imam_hambali> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Person> .
+<http://kgz.uinjkt.ac.id/#imam_hambali> <http://www.w3.org/2000/01/rdf-schema#label> "imam hambali" .
+<http://kgz.uinjkt.ac.id/#imam_hanafi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Person> .
+<http://kgz.uinjkt.ac.id/#imam_hanafi> <http://www.w3.org/2000/01/rdf-schema#label> "imam hanafi" .
+<http://kgz.uinjkt.ac.id/#imam_maliki> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Person> .
+<http://kgz.uinjkt.ac.id/#imam_maliki> <http://www.w3.org/2000/01/rdf-schema#label> "imam maliki" .
+<http://kgz.uinjkt.ac.id/#imam_syafi'i> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Person> .
+<http://kgz.uinjkt.ac.id/#imam_syafi'i> <http://www.w3.org/2000/01/rdf-schema#label> "imam syafi'i" .
+<http://kgz.uinjkt.ac.id/#inisiatif_zakat_indonesia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Lembaga_Amil_Zakat> .
+<http://kgz.uinjkt.ac.id/#inisiatif_zakat_indonesia> <http://www.w3.org/2000/01/rdf-schema#label> "inisiatif zakat indonesia" .
+<http://kgz.uinjkt.ac.id/#instansi_pemerintah> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Organization> .
+<http://kgz.uinjkt.ac.id/#instansi_pemerintah> <http://www.w3.org/2000/01/rdf-schema#label> "instansi pemerintah" .
+<http://kgz.uinjkt.ac.id/#institusi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Organization> .
+<http://kgz.uinjkt.ac.id/#institusi> <http://www.w3.org/2000/01/rdf-schema#label> "institusi" .
+<http://kgz.uinjkt.ac.id/#institusi_pengelola_zakat_tingkat_nasional> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Organization> .
+<http://kgz.uinjkt.ac.id/#institusi_pengelola_zakat_tingkat_nasional> <http://www.w3.org/2000/01/rdf-schema#label> "institusi pengelola zakat tingkat nasional" .
+<http://kgz.uinjkt.ac.id/#izi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Lembaga_Amil_Zakat> .
+<http://kgz.uinjkt.ac.id/#izi> <http://www.w3.org/2000/01/rdf-schema#label> "izi" .
+<http://kgz.uinjkt.ac.id/#jadza'ah> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Binatang_Ternak> .
+<http://kgz.uinjkt.ac.id/#jadza'ah> <http://www.w3.org/2000/01/rdf-schema#label> "jadza'ah" .
+<http://kgz.uinjkt.ac.id/#jasa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Pekerjaan> .
+<http://kgz.uinjkt.ac.id/#jasa> <http://www.w3.org/2000/01/rdf-schema#label> "jasa" .
+<http://kgz.uinjkt.ac.id/#jumhur> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Person> .
+<http://kgz.uinjkt.ac.id/#jumhur> <http://www.w3.org/2000/01/rdf-schema#label> "jumhur" .
+<http://kgz.uinjkt.ac.id/#jumhur_ulama> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Person> .
+<http://kgz.uinjkt.ac.id/#jumhur_ulama> <http://www.w3.org/2000/01/rdf-schema#label> "jumhur ulama" .
+<http://kgz.uinjkt.ac.id/#kabupaten_kota> <http://kgz.uinjkt.ac.id/#diatur_dalam> <http://kgz.uinjkt.ac.id/#peraturan_pemerintah> .
+<http://kgz.uinjkt.ac.id/#kabupaten_kota> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Location> .
+<http://kgz.uinjkt.ac.id/#kabupaten_kota> <http://www.w3.org/2000/01/rdf-schema#label> "kabupaten kota" .
+<http://kgz.uinjkt.ac.id/#kambing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Binatang_Ternak> .
+<http://kgz.uinjkt.ac.id/#kambing> <http://www.w3.org/2000/01/rdf-schema#label> "kambing" .
+<http://kgz.uinjkt.ac.id/#kambing_domba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Binatang_Ternak> .
+<http://kgz.uinjkt.ac.id/#kambing_domba> <http://www.w3.org/2000/01/rdf-schema#label> "kambing domba" .
+<http://kgz.uinjkt.ac.id/#kambing_kacang> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Binatang_Ternak> .
+<http://kgz.uinjkt.ac.id/#kambing_kacang> <http://www.w3.org/2000/01/rdf-schema#label> "kambing kacang" .
+<http://kgz.uinjkt.ac.id/#kaum_dhuafa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Mustahik> .
+<http://kgz.uinjkt.ac.id/#kaum_dhuafa> <http://www.w3.org/2000/01/rdf-schema#label> "kaum dhuafa" .
+<http://kgz.uinjkt.ac.id/#kaum_muslim> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Person> .
+<http://kgz.uinjkt.ac.id/#kaum_muslim> <http://www.w3.org/2000/01/rdf-schema#label> "kaum muslim" .
+<http://kgz.uinjkt.ac.id/#kaum_muslimin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Person> .
+<http://kgz.uinjkt.ac.id/#kaum_muslimin> <http://www.w3.org/2000/01/rdf-schema#label> "kaum muslimin" .
+<http://kgz.uinjkt.ac.id/#keadilan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Azas_Pengelolaan_Zakat> .
+<http://kgz.uinjkt.ac.id/#keadilan> <http://www.w3.org/2000/01/rdf-schema#label> "keadilan" .
+<http://kgz.uinjkt.ac.id/#kecamatan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Location> .
+<http://kgz.uinjkt.ac.id/#kecamatan> <http://www.w3.org/2000/01/rdf-schema#label> "kecamatan" .
+<http://kgz.uinjkt.ac.id/#kemanfaatan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Azas_Pengelolaan_Zakat> .
+<http://kgz.uinjkt.ac.id/#kemanfaatan> <http://www.w3.org/2000/01/rdf-schema#label> "kemanfaatan" .
+<http://kgz.uinjkt.ac.id/#kemenag> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Organization> .
+<http://kgz.uinjkt.ac.id/#kemenag> <http://www.w3.org/2000/01/rdf-schema#label> "kemenag" .
+<http://kgz.uinjkt.ac.id/#kemenag_provinsi_jawa_tengah> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Organization> .
+<http://kgz.uinjkt.ac.id/#kemenag_provinsi_jawa_tengah> <http://www.w3.org/2000/01/rdf-schema#label> "kemenag provinsi jawa tengah" .
+<http://kgz.uinjkt.ac.id/#kepastian> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Azas_Pengelolaan_Zakat> .
+<http://kgz.uinjkt.ac.id/#kepastian> <http://www.w3.org/2000/01/rdf-schema#label> "kepastian" .
+<http://kgz.uinjkt.ac.id/#kerbau> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Binatang_Ternak> .
+<http://kgz.uinjkt.ac.id/#kerbau> <http://www.w3.org/2000/01/rdf-schema#label> "kerbau" .
+<http://kgz.uinjkt.ac.id/#kismis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Makanan_Pokok> .
+<http://kgz.uinjkt.ac.id/#kismis> <http://www.w3.org/2000/01/rdf-schema#label> "kismis" .
+<http://kgz.uinjkt.ac.id/#kurma> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Makanan_Pokok> .
+<http://kgz.uinjkt.ac.id/#kurma> <http://www.w3.org/2000/01/rdf-schema#label> "kurma" .
+<http://kgz.uinjkt.ac.id/#laporan_pelaksanaan_pengelolaan_zakat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Zakat> .
+<http://kgz.uinjkt.ac.id/#laporan_pelaksanaan_pengelolaan_zakat> <http://www.w3.org/2000/01/rdf-schema#label> "laporan pelaksanaan pengelolaan zakat" .
+<http://kgz.uinjkt.ac.id/#laz> <http://kgz.uinjkt.ac.id/#diatur_dalam> <http://kgz.uinjkt.ac.id/#peraturan_pemerintah> .
+<http://kgz.uinjkt.ac.id/#laz> <http://kgz.uinjkt.ac.id/#dikukuhkan_oleh> <http://kgz.uinjkt.ac.id/#menteri> .
+<http://kgz.uinjkt.ac.id/#laz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Lembaga_Pengelola_Zakat> .
+<http://kgz.uinjkt.ac.id/#laz> <http://www.w3.org/2000/01/rdf-schema#label> "laz" .
+<http://kgz.uinjkt.ac.id/#lazis_mu> <http://kgz.uinjkt.ac.id/#adalah> "institusi pengelola zakat tingkat nasional produktif dana zakat" .
+<http://kgz.uinjkt.ac.id/#lazis_mu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Lembaga_Amil_Zakat> .
+<http://kgz.uinjkt.ac.id/#lazis_mu> <http://www.w3.org/2000/01/rdf-schema#label> "lazis mu" .
+<http://kgz.uinjkt.ac.id/#lembaga> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Organization> .
+<http://kgz.uinjkt.ac.id/#lembaga> <http://www.w3.org/2000/01/rdf-schema#label> "lembaga" .
+<http://kgz.uinjkt.ac.id/#lembaga_amil_zakat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Organization> .
+<http://kgz.uinjkt.ac.id/#lembaga_amil_zakat> <http://www.w3.org/2000/01/rdf-schema#label> "lembaga amil zakat" .
+<http://kgz.uinjkt.ac.id/#lembaga_nonprofit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Organization> .
+<http://kgz.uinjkt.ac.id/#lembaga_nonprofit> <http://www.w3.org/2000/01/rdf-schema#label> "lembaga nonprofit" .
+<http://kgz.uinjkt.ac.id/#lembaga_pemerintah> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Organization> .
+<http://kgz.uinjkt.ac.id/#lembaga_pemerintah> <http://www.w3.org/2000/01/rdf-schema#label> "lembaga pemerintah" .
+<http://kgz.uinjkt.ac.id/#lembaga_zakat_nasional> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Organization> .
+<http://kgz.uinjkt.ac.id/#lembaga_zakat_nasional> <http://www.w3.org/2000/01/rdf-schema#label> "lembaga zakat nasional" .
+<http://kgz.uinjkt.ac.id/#lembu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Binatang_Ternak> .
+<http://kgz.uinjkt.ac.id/#lembu> <http://www.w3.org/2000/01/rdf-schema#label> "lembu" .
+<http://kgz.uinjkt.ac.id/#masyarakat> <http://kgz.uinjkt.ac.id/#membentuk> <http://kgz.uinjkt.ac.id/#laz> .
+<http://kgz.uinjkt.ac.id/#masyarakat> <http://kgz.uinjkt.ac.id/#membentuk> "Lembaga Amil Zakat ( LAZ )" .
+<http://kgz.uinjkt.ac.id/#masyarakat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Organization> .
+<http://kgz.uinjkt.ac.id/#masyarakat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Regulasi> .
+<http://kgz.uinjkt.ac.id/#masyarakat> <http://www.w3.org/2000/01/rdf-schema#label> "masyarakat" .
+<http://kgz.uinjkt.ac.id/#mata_uang> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Harta> .
+<http://kgz.uinjkt.ac.id/#mata_uang> <http://www.w3.org/2000/01/rdf-schema#label> "mata uang" .
+<http://kgz.uinjkt.ac.id/#membentuk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://kgz.uinjkt.ac.id/#membentuk> <http://www.w3.org/2000/01/rdf-schema#domain> <http://kgz.uinjkt.ac.id/#Organization> .
+<http://kgz.uinjkt.ac.id/#membentuk> <http://www.w3.org/2000/01/rdf-schema#range> <http://kgz.uinjkt.ac.id/#Lembaga_Pengelola_Zakat> .
+<http://kgz.uinjkt.ac.id/#membentuk> <http://www.w3.org/2000/01/rdf-schema#range> <http://www.w3.org/2000/01/rdf-schema#Literal> .
+<http://kgz.uinjkt.ac.id/#memberikan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://kgz.uinjkt.ac.id/#memberikan> <http://www.w3.org/2000/01/rdf-schema#domain> <http://kgz.uinjkt.ac.id/#Lembaga_Pengelola_Zakat> .
+<http://kgz.uinjkt.ac.id/#memberikan> <http://www.w3.org/2000/01/rdf-schema#range> <http://www.w3.org/2000/01/rdf-schema#Literal> .
+<http://kgz.uinjkt.ac.id/#menerima> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://kgz.uinjkt.ac.id/#menerima> <http://www.w3.org/2000/01/rdf-schema#domain> <http://kgz.uinjkt.ac.id/#Lembaga_Pengelola_Zakat> .
+<http://kgz.uinjkt.ac.id/#menerima> <http://www.w3.org/2000/01/rdf-schema#range> <http://www.w3.org/2000/01/rdf-schema#Literal> .
+<http://kgz.uinjkt.ac.id/#menteri> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Organization> .
+<http://kgz.uinjkt.ac.id/#menteri> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Person> .
+<http://kgz.uinjkt.ac.id/#menteri> <http://www.w3.org/2000/01/rdf-schema#label> "menteri" .
+<http://kgz.uinjkt.ac.id/#menyampaikan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://kgz.uinjkt.ac.id/#menyampaikan> <http://www.w3.org/2000/01/rdf-schema#domain> <http://kgz.uinjkt.ac.id/#Lembaga_Pengelola_Zakat> .
+<http://kgz.uinjkt.ac.id/#menyampaikan> <http://www.w3.org/2000/01/rdf-schema#range> <http://kgz.uinjkt.ac.id/#Zakat> .
+<http://kgz.uinjkt.ac.id/#merupakan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://kgz.uinjkt.ac.id/#merupakan> <http://www.w3.org/2000/01/rdf-schema#domain> <http://kgz.uinjkt.ac.id/#Lembaga_Pengelola_Zakat> .
+<http://kgz.uinjkt.ac.id/#merupakan> <http://www.w3.org/2000/01/rdf-schema#range> <http://www.w3.org/2000/01/rdf-schema#Literal> .
+<http://kgz.uinjkt.ac.id/#miskin> <http://kgz.uinjkt.ac.id/#adalah> "orang sedikit harta" .
+<http://kgz.uinjkt.ac.id/#miskin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Mustahik> .
+<http://kgz.uinjkt.ac.id/#miskin> <http://www.w3.org/2000/01/rdf-schema#label> "miskin" .
+<http://kgz.uinjkt.ac.id/#mu'adz_bin_jabal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Person> .
+<http://kgz.uinjkt.ac.id/#mu'adz_bin_jabal> <http://www.w3.org/2000/01/rdf-schema#label> "mu'adz bin jabal" .
+<http://kgz.uinjkt.ac.id/#mu'adz_ra> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Person> .
+<http://kgz.uinjkt.ac.id/#mu'adz_ra> <http://www.w3.org/2000/01/rdf-schema#label> "mu'adz ra" .
+<http://kgz.uinjkt.ac.id/#musinnah> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Binatang_Ternak> .
+<http://kgz.uinjkt.ac.id/#musinnah> <http://www.w3.org/2000/01/rdf-schema#label> "musinnah" .
+<http://kgz.uinjkt.ac.id/#muslim> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Person> .
+<http://kgz.uinjkt.ac.id/#muslim> <http://www.w3.org/2000/01/rdf-schema#label> "muslim" .
+<http://kgz.uinjkt.ac.id/#muslim_mukallaf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Muzaki> .
+<http://kgz.uinjkt.ac.id/#muslim_mukallaf> <http://www.w3.org/2000/01/rdf-schema#label> "muslim mukallaf" .
+<http://kgz.uinjkt.ac.id/#nabi_saw> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Person> .
+<http://kgz.uinjkt.ac.id/#nabi_saw> <http://www.w3.org/2000/01/rdf-schema#label> "nabi saw" .
+<http://kgz.uinjkt.ac.id/#nasional> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Location> .
+<http://kgz.uinjkt.ac.id/#nasional> <http://www.w3.org/2000/01/rdf-schema#label> "nasional" .
+<http://kgz.uinjkt.ac.id/#nisab_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Nisab> .
+<http://kgz.uinjkt.ac.id/#nisab_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Tarif_Zakat> .
+<http://kgz.uinjkt.ac.id/#nisab_1> <http://www.w3.org/2000/01/rdf-schema#label> "1 ekor musinnah" .
+<http://kgz.uinjkt.ac.id/#nisab_1> <http://www.w3.org/2000/01/rdf-schema#label> "20 dirham" .
+<http://kgz.uinjkt.ac.id/#nisab_10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Nisab> .
+<http://kgz.uinjkt.ac.id/#nisab_10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Tarif_Zakat> .
+<http://kgz.uinjkt.ac.id/#nisab_10> <http://www.w3.org/2000/01/rdf-schema#label> "1 ekor tabi" .
+<http://kgz.uinjkt.ac.id/#nisab_10> <http://www.w3.org/2000/01/rdf-schema#label> "lebih dari 300 ekor" .
+<http://kgz.uinjkt.ac.id/#nisab_11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Nisab> .
+<http://kgz.uinjkt.ac.id/#nisab_11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Tarif_Zakat> .
+<http://kgz.uinjkt.ac.id/#nisab_11> <http://www.w3.org/2000/01/rdf-schema#label> "1 20" .
+<http://kgz.uinjkt.ac.id/#nisab_11> <http://www.w3.org/2000/01/rdf-schema#label> "50 ekor" .
+<http://kgz.uinjkt.ac.id/#nisab_12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Nisab> .
+<http://kgz.uinjkt.ac.id/#nisab_12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Tarif_Zakat> .
+<http://kgz.uinjkt.ac.id/#nisab_12> <http://www.w3.org/2000/01/rdf-schema#label> "20 %" .
+<http://kgz.uinjkt.ac.id/#nisab_12> <http://www.w3.org/2000/01/rdf-schema#label> "595 gram" .
+<http://kgz.uinjkt.ac.id/#nisab_13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Nisab> .
+<http://kgz.uinjkt.ac.id/#nisab_13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Tarif_Zakat> .
+<http://kgz.uinjkt.ac.id/#nisab_13> <http://www.w3.org/2000/01/rdf-schema#label> "1 5" .
+<http://kgz.uinjkt.ac.id/#nisab_13> <http://www.w3.org/2000/01/rdf-schema#label> "100 ekor" .
+<http://kgz.uinjkt.ac.id/#nisab_14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Nisab> .
+<http://kgz.uinjkt.ac.id/#nisab_14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Tarif_Zakat> .
+<http://kgz.uinjkt.ac.id/#nisab_14> <http://www.w3.org/2000/01/rdf-schema#label> "120 hingga 200 ekor" .
+<http://kgz.uinjkt.ac.id/#nisab_14> <http://www.w3.org/2000/01/rdf-schema#label> "satu sha" .
+<http://kgz.uinjkt.ac.id/#nisab_15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Nisab> .
+<http://kgz.uinjkt.ac.id/#nisab_15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Tarif_Zakat> .
+<http://kgz.uinjkt.ac.id/#nisab_15> <http://www.w3.org/2000/01/rdf-schema#label> "1 40" .
+<http://kgz.uinjkt.ac.id/#nisab_15> <http://www.w3.org/2000/01/rdf-schema#label> "lebih dari 200 hingga 300 ekor" .
+<http://kgz.uinjkt.ac.id/#nisab_16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Nisab> .
+<http://kgz.uinjkt.ac.id/#nisab_16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Tarif_Zakat> .
+<http://kgz.uinjkt.ac.id/#nisab_16> <http://www.w3.org/2000/01/rdf-schema#label> "2,5 %" .
+<http://kgz.uinjkt.ac.id/#nisab_16> <http://www.w3.org/2000/01/rdf-schema#label> "200 dirham" .
+<http://kgz.uinjkt.ac.id/#nisab_17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Nisab> .
+<http://kgz.uinjkt.ac.id/#nisab_17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Tarif_Zakat> .
+<http://kgz.uinjkt.ac.id/#nisab_17> <http://www.w3.org/2000/01/rdf-schema#label> "lima ekor" .
+<http://kgz.uinjkt.ac.id/#nisab_17> <http://www.w3.org/2000/01/rdf-schema#label> "satu sho" .
+<http://kgz.uinjkt.ac.id/#nisab_18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Nisab> .
+<http://kgz.uinjkt.ac.id/#nisab_18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Tarif_Zakat> .
+<http://kgz.uinjkt.ac.id/#nisab_18> <http://www.w3.org/2000/01/rdf-schema#label> "2,5 persen" .
+<http://kgz.uinjkt.ac.id/#nisab_18> <http://www.w3.org/2000/01/rdf-schema#label> "20 ekor unta" .
+<http://kgz.uinjkt.ac.id/#nisab_19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Nisab> .
+<http://kgz.uinjkt.ac.id/#nisab_19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Tarif_Zakat> .
+<http://kgz.uinjkt.ac.id/#nisab_19> <http://www.w3.org/2000/01/rdf-schema#label> "2,7 kg" .
+<http://kgz.uinjkt.ac.id/#nisab_19> <http://www.w3.org/2000/01/rdf-schema#label> "5 ekor" .
+<http://kgz.uinjkt.ac.id/#nisab_2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Nisab> .
+<http://kgz.uinjkt.ac.id/#nisab_2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Tarif_Zakat> .
+<http://kgz.uinjkt.ac.id/#nisab_2> <http://www.w3.org/2000/01/rdf-schema#label> "85 gram emas" .
+<http://kgz.uinjkt.ac.id/#nisab_2> <http://www.w3.org/2000/01/rdf-schema#label> "setengah dinar" .
+<http://kgz.uinjkt.ac.id/#nisab_20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Nisab> .
+<http://kgz.uinjkt.ac.id/#nisab_20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Tarif_Zakat> .
+<http://kgz.uinjkt.ac.id/#nisab_20> <http://www.w3.org/2000/01/rdf-schema#label> "20 dinar" .
+<http://kgz.uinjkt.ac.id/#nisab_20> <http://www.w3.org/2000/01/rdf-schema#label> "satu ekor" .
+<http://kgz.uinjkt.ac.id/#nisab_21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Nisab> .
+<http://kgz.uinjkt.ac.id/#nisab_21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Tarif_Zakat> .
+<http://kgz.uinjkt.ac.id/#nisab_21> <http://www.w3.org/2000/01/rdf-schema#label> "40 dirham" .
+<http://kgz.uinjkt.ac.id/#nisab_21> <http://www.w3.org/2000/01/rdf-schema#label> "5 %" .
+<http://kgz.uinjkt.ac.id/#nisab_22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Nisab> .
+<http://kgz.uinjkt.ac.id/#nisab_22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Tarif_Zakat> .
+<http://kgz.uinjkt.ac.id/#nisab_22> <http://www.w3.org/2000/01/rdf-schema#label> "120 ekor" .
+<http://kgz.uinjkt.ac.id/#nisab_22> <http://www.w3.org/2000/01/rdf-schema#label> "satu ekor kambing domba" .
+<http://kgz.uinjkt.ac.id/#nisab_23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Nisab> .
+<http://kgz.uinjkt.ac.id/#nisab_23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Tarif_Zakat> .
+<http://kgz.uinjkt.ac.id/#nisab_23> <http://www.w3.org/2000/01/rdf-schema#label> "10 %" .
+<http://kgz.uinjkt.ac.id/#nisab_23> <http://www.w3.org/2000/01/rdf-schema#label> "30 ekor" .
+<http://kgz.uinjkt.ac.id/#nisab_24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Nisab> .
+<http://kgz.uinjkt.ac.id/#nisab_24> <http://www.w3.org/2000/01/rdf-schema#label> "300 sha '" .
+<http://kgz.uinjkt.ac.id/#nisab_25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Nisab> .
+<http://kgz.uinjkt.ac.id/#nisab_25> <http://www.w3.org/2000/01/rdf-schema#label> "5 wasaq" .
+<http://kgz.uinjkt.ac.id/#nisab_26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Nisab> .
+<http://kgz.uinjkt.ac.id/#nisab_26> <http://www.w3.org/2000/01/rdf-schema#label> "85 gram" .
+<http://kgz.uinjkt.ac.id/#nisab_27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Nisab> .
+<http://kgz.uinjkt.ac.id/#nisab_27> <http://www.w3.org/2000/01/rdf-schema#label> "50 ekor sapi" .
+<http://kgz.uinjkt.ac.id/#nisab_28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Nisab> .
+<http://kgz.uinjkt.ac.id/#nisab_28> <http://www.w3.org/2000/01/rdf-schema#label> "setiap seratus ekor" .
+<http://kgz.uinjkt.ac.id/#nisab_29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Nisab> .
+<http://kgz.uinjkt.ac.id/#nisab_29> <http://www.w3.org/2000/01/rdf-schema#label> "595 gram perak murni" .
+<http://kgz.uinjkt.ac.id/#nisab_3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Nisab> .
+<http://kgz.uinjkt.ac.id/#nisab_3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Tarif_Zakat> .
+<http://kgz.uinjkt.ac.id/#nisab_3> <http://www.w3.org/2000/01/rdf-schema#label> "1 sha" .
+<http://kgz.uinjkt.ac.id/#nisab_3> <http://www.w3.org/2000/01/rdf-schema#label> "40 ekor" .
+<http://kgz.uinjkt.ac.id/#nisab_30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Nisab> .
+<http://kgz.uinjkt.ac.id/#nisab_30> <http://www.w3.org/2000/01/rdf-schema#label> "40 ekor sapi" .
+<http://kgz.uinjkt.ac.id/#nisab_31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Nisab> .
+<http://kgz.uinjkt.ac.id/#nisab_31> <http://www.w3.org/2000/01/rdf-schema#label> "5 ekor unta" .
+<http://kgz.uinjkt.ac.id/#nisab_32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Nisab> .
+<http://kgz.uinjkt.ac.id/#nisab_32> <http://www.w3.org/2000/01/rdf-schema#label> "30 ekor sapi" .
+<http://kgz.uinjkt.ac.id/#nisab_33> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Nisab> .
+<http://kgz.uinjkt.ac.id/#nisab_33> <http://www.w3.org/2000/01/rdf-schema#label> "300 ekor" .
+<http://kgz.uinjkt.ac.id/#nisab_34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Nisab> .
+<http://kgz.uinjkt.ac.id/#nisab_34> <http://www.w3.org/2000/01/rdf-schema#label> "652,5 kg" .
+<http://kgz.uinjkt.ac.id/#nisab_4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Nisab> .
+<http://kgz.uinjkt.ac.id/#nisab_4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Tarif_Zakat> .
+<http://kgz.uinjkt.ac.id/#nisab_4> <http://www.w3.org/2000/01/rdf-schema#label> "200 ekor" .
+<http://kgz.uinjkt.ac.id/#nisab_4> <http://www.w3.org/2000/01/rdf-schema#label> "tiga ekor" .
+<http://kgz.uinjkt.ac.id/#nisab_5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Nisab> .
+<http://kgz.uinjkt.ac.id/#nisab_5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Tarif_Zakat> .
+<http://kgz.uinjkt.ac.id/#nisab_5> <http://www.w3.org/2000/01/rdf-schema#label> "3,5 liter" .
+<http://kgz.uinjkt.ac.id/#nisab_5> <http://www.w3.org/2000/01/rdf-schema#label> "85 gram emas murni" .
+<http://kgz.uinjkt.ac.id/#nisab_6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Nisab> .
+<http://kgz.uinjkt.ac.id/#nisab_6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Tarif_Zakat> .
+<http://kgz.uinjkt.ac.id/#nisab_6> <http://www.w3.org/2000/01/rdf-schema#label> "dua ratus dirham" .
+<http://kgz.uinjkt.ac.id/#nisab_6> <http://www.w3.org/2000/01/rdf-schema#label> "lima dirham" .
+<http://kgz.uinjkt.ac.id/#nisab_7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Nisab> .
+<http://kgz.uinjkt.ac.id/#nisab_7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Tarif_Zakat> .
+<http://kgz.uinjkt.ac.id/#nisab_7> <http://www.w3.org/2000/01/rdf-schema#label> "4 mud" .
+<http://kgz.uinjkt.ac.id/#nisab_7> <http://www.w3.org/2000/01/rdf-schema#label> "40-120 ekor" .
+<http://kgz.uinjkt.ac.id/#nisab_8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Nisab> .
+<http://kgz.uinjkt.ac.id/#nisab_8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Tarif_Zakat> .
+<http://kgz.uinjkt.ac.id/#nisab_8> <http://www.w3.org/2000/01/rdf-schema#label> "dua ekor" .
+<http://kgz.uinjkt.ac.id/#nisab_8> <http://www.w3.org/2000/01/rdf-schema#label> "dua ekor sapi" .
+<http://kgz.uinjkt.ac.id/#nisab_9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Nisab> .
+<http://kgz.uinjkt.ac.id/#nisab_9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Tarif_Zakat> .
+<http://kgz.uinjkt.ac.id/#nisab_9> <http://www.w3.org/2000/01/rdf-schema#label> "1 10" .
+<http://kgz.uinjkt.ac.id/#nisab_9> <http://www.w3.org/2000/01/rdf-schema#label> "dua puluh dinar" .
+<http://kgz.uinjkt.ac.id/#nu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Organization> .
+<http://kgz.uinjkt.ac.id/#nu> <http://www.w3.org/2000/01/rdf-schema#label> "nu" .
+<http://kgz.uinjkt.ac.id/#nu_care_lazis_nu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Lembaga_Amil_Zakat> .
+<http://kgz.uinjkt.ac.id/#nu_care_lazis_nu> <http://www.w3.org/2000/01/rdf-schema#label> "nu care lazis nu" .
+<http://kgz.uinjkt.ac.id/#obligasi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Harta> .
+<http://kgz.uinjkt.ac.id/#obligasi> <http://www.w3.org/2000/01/rdf-schema#label> "obligasi" .
+<http://kgz.uinjkt.ac.id/#orang_miskin> <http://kgz.uinjkt.ac.id/#ialah> "orang yang keadaan ekonominya lebih buruk" .
+<http://kgz.uinjkt.ac.id/#orang_miskin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Mustahik> .
+<http://kgz.uinjkt.ac.id/#orang_miskin> <http://www.w3.org/2000/01/rdf-schema#label> "orang miskin" .
+<http://kgz.uinjkt.ac.id/#pelaksanaan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Pengelolaan_Zakat> .
+<http://kgz.uinjkt.ac.id/#pelaksanaan> <http://www.w3.org/2000/01/rdf-schema#label> "pelaksanaan" .
+<http://kgz.uinjkt.ac.id/#pelaksanaan_pengumpulan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Pengelolaan_Zakat> .
+<http://kgz.uinjkt.ac.id/#pelaksanaan_pengumpulan> <http://www.w3.org/2000/01/rdf-schema#label> "pelaksanaan pengumpulan" .
+<http://kgz.uinjkt.ac.id/#pelaporan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Pengelolaan_Zakat> .
+<http://kgz.uinjkt.ac.id/#pelaporan> <http://www.w3.org/2000/01/rdf-schema#label> "pelaporan" .
+<http://kgz.uinjkt.ac.id/#pemberdayaan_masyarakat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Pengelolaan_Zakat> .
+<http://kgz.uinjkt.ac.id/#pemberdayaan_masyarakat> <http://www.w3.org/2000/01/rdf-schema#label> "pemberdayaan masyarakat" .
+<http://kgz.uinjkt.ac.id/#pemerintah> <http://kgz.uinjkt.ac.id/#membentuk> <http://kgz.uinjkt.ac.id/#baznas> .
+<http://kgz.uinjkt.ac.id/#pemerintah> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Organization> .
+<http://kgz.uinjkt.ac.id/#pemerintah> <http://www.w3.org/2000/01/rdf-schema#label> "pemerintah" .
+<http://kgz.uinjkt.ac.id/#pemerintahan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Organization> .
+<http://kgz.uinjkt.ac.id/#pemerintahan> <http://www.w3.org/2000/01/rdf-schema#label> "pemerintahan" .
+<http://kgz.uinjkt.ac.id/#pendapatan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Harta> .
+<http://kgz.uinjkt.ac.id/#pendapatan> <http://www.w3.org/2000/01/rdf-schema#label> "pendapatan" .
+<http://kgz.uinjkt.ac.id/#pendayagunaan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Pengelolaan_Zakat> .
+<http://kgz.uinjkt.ac.id/#pendayagunaan> <http://www.w3.org/2000/01/rdf-schema#label> "pendayagunaan" .
+<http://kgz.uinjkt.ac.id/#pendayagunaan_pengumpulan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Pengelolaan_Zakat> .
+<http://kgz.uinjkt.ac.id/#pendayagunaan_pengumpulan> <http://www.w3.org/2000/01/rdf-schema#label> "pendayagunaan pengumpulan" .
+<http://kgz.uinjkt.ac.id/#pendayagunaan_zakat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Pengelolaan_Zakat> .
+<http://kgz.uinjkt.ac.id/#pendayagunaan_zakat> <http://www.w3.org/2000/01/rdf-schema#label> "pendayagunaan zakat" .
+<http://kgz.uinjkt.ac.id/#pendistribusian> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Pengelolaan_Zakat> .
+<http://kgz.uinjkt.ac.id/#pendistribusian> <http://www.w3.org/2000/01/rdf-schema#label> "pendistribusian" .
+<http://kgz.uinjkt.ac.id/#pendistribusian_zakat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Pengelolaan_Zakat> .
+<http://kgz.uinjkt.ac.id/#pendistribusian_zakat> <http://www.w3.org/2000/01/rdf-schema#label> "pendistribusian zakat" .
+<http://kgz.uinjkt.ac.id/#pengawas_syariat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Person> .
+<http://kgz.uinjkt.ac.id/#pengawas_syariat> <http://www.w3.org/2000/01/rdf-schema#label> "pengawas syariat" .
+<http://kgz.uinjkt.ac.id/#pengelolaan_zakat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Zakat> .
+<http://kgz.uinjkt.ac.id/#pengelolaan_zakat> <http://www.w3.org/2000/01/rdf-schema#label> "pengelolaan zakat" .
+<http://kgz.uinjkt.ac.id/#pengendalian_pengumpulan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Pengelolaan_Zakat> .
+<http://kgz.uinjkt.ac.id/#pengendalian_pengumpulan> <http://www.w3.org/2000/01/rdf-schema#label> "pengendalian pengumpulan" .
+<http://kgz.uinjkt.ac.id/#pengoordinasian> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Pengelolaan_Zakat> .
+<http://kgz.uinjkt.ac.id/#pengoordinasian> <http://www.w3.org/2000/01/rdf-schema#label> "pengoordinasian" .
+<http://kgz.uinjkt.ac.id/#pengorganisasian> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Pengelolaan_Zakat> .
+<http://kgz.uinjkt.ac.id/#pengorganisasian> <http://www.w3.org/2000/01/rdf-schema#label> "pengorganisasian" .
+<http://kgz.uinjkt.ac.id/#pengumpulan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Pengelolaan_Zakat> .
+<http://kgz.uinjkt.ac.id/#pengumpulan> <http://www.w3.org/2000/01/rdf-schema#label> "pengumpulan" .
+<http://kgz.uinjkt.ac.id/#pengumpulan_zakat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Pengelolaan_Zakat> .
+<http://kgz.uinjkt.ac.id/#pengumpulan_zakat> <http://www.w3.org/2000/01/rdf-schema#label> "pengumpulan zakat" .
+<http://kgz.uinjkt.ac.id/#perak> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Logam_Mulia> .
+<http://kgz.uinjkt.ac.id/#perak> <http://www.w3.org/2000/01/rdf-schema#label> "perak" .
+<http://kgz.uinjkt.ac.id/#peraturan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Regulasi> .
+<http://kgz.uinjkt.ac.id/#peraturan> <http://www.w3.org/2000/01/rdf-schema#label> "peraturan" .
+<http://kgz.uinjkt.ac.id/#peraturan_menteri> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Regulasi> .
+<http://kgz.uinjkt.ac.id/#peraturan_menteri> <http://www.w3.org/2000/01/rdf-schema#label> "peraturan menteri" .
+<http://kgz.uinjkt.ac.id/#peraturan_pelaksanaan_undang-undang_nomor_38_tahun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Regulasi> .
+<http://kgz.uinjkt.ac.id/#peraturan_pelaksanaan_undang-undang_nomor_38_tahun> <http://www.w3.org/2000/01/rdf-schema#label> "peraturan pelaksanaan undang-undang nomor 38 tahun" .
+<http://kgz.uinjkt.ac.id/#peraturan_pemerintah> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Regulasi> .
+<http://kgz.uinjkt.ac.id/#peraturan_pemerintah> <http://www.w3.org/2000/01/rdf-schema#label> "peraturan pemerintah" .
+<http://kgz.uinjkt.ac.id/#peraturan_perundang-undangan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Regulasi> .
+<http://kgz.uinjkt.ac.id/#peraturan_perundang-undangan> <http://www.w3.org/2000/01/rdf-schema#label> "peraturan perundang-undangan" .
+<http://kgz.uinjkt.ac.id/#perencanaan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Pengelolaan_Zakat> .
+<http://kgz.uinjkt.ac.id/#perencanaan> <http://www.w3.org/2000/01/rdf-schema#label> "perencanaan" .
+<http://kgz.uinjkt.ac.id/#perencanaan_pengumpulan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Pengelolaan_Zakat> .
+<http://kgz.uinjkt.ac.id/#perencanaan_pengumpulan> <http://www.w3.org/2000/01/rdf-schema#label> "perencanaan pengumpulan" .
+<http://kgz.uinjkt.ac.id/#perindustrian> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Pekerjaan> .
+<http://kgz.uinjkt.ac.id/#perindustrian> <http://www.w3.org/2000/01/rdf-schema#label> "perindustrian" .
+<http://kgz.uinjkt.ac.id/#perkebunan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Pekerjaan> .
+<http://kgz.uinjkt.ac.id/#perkebunan> <http://www.w3.org/2000/01/rdf-schema#label> "perkebunan" .
+<http://kgz.uinjkt.ac.id/#perniagaan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Pekerjaan> .
+<http://kgz.uinjkt.ac.id/#perniagaan> <http://www.w3.org/2000/01/rdf-schema#label> "perniagaan" .
+<http://kgz.uinjkt.ac.id/#perseorangan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Person> .
+<http://kgz.uinjkt.ac.id/#perseorangan> <http://www.w3.org/2000/01/rdf-schema#label> "perseorangan" .
+<http://kgz.uinjkt.ac.id/#pertambangan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Pekerjaan> .
+<http://kgz.uinjkt.ac.id/#pertambangan> <http://www.w3.org/2000/01/rdf-schema#label> "pertambangan" .
+<http://kgz.uinjkt.ac.id/#pertanggungjawaban> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Pengelolaan_Zakat> .
+<http://kgz.uinjkt.ac.id/#pertanggungjawaban> <http://www.w3.org/2000/01/rdf-schema#label> "pertanggungjawaban" .
+<http://kgz.uinjkt.ac.id/#pertanggungjawaban_pelaksanaan_pengelolaan_zakat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Pengelolaan_Zakat> .
+<http://kgz.uinjkt.ac.id/#pertanggungjawaban_pelaksanaan_pengelolaan_zakat> <http://www.w3.org/2000/01/rdf-schema#label> "pertanggungjawaban pelaksanaan pengelolaan zakat" .
+<http://kgz.uinjkt.ac.id/#pertanian> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Pekerjaan> .
+<http://kgz.uinjkt.ac.id/#pertanian> <http://www.w3.org/2000/01/rdf-schema#label> "pertanian" .
+<http://kgz.uinjkt.ac.id/#perusahaan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Organization> .
+<http://kgz.uinjkt.ac.id/#perusahaan> <http://www.w3.org/2000/01/rdf-schema#label> "perusahaan" .
+<http://kgz.uinjkt.ac.id/#perusahaan_swasta> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Organization> .
+<http://kgz.uinjkt.ac.id/#perusahaan_swasta> <http://www.w3.org/2000/01/rdf-schema#label> "perusahaan swasta" .
+<http://kgz.uinjkt.ac.id/#peternakan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Pekerjaan> .
+<http://kgz.uinjkt.ac.id/#peternakan> <http://www.w3.org/2000/01/rdf-schema#label> "peternakan" .
+<http://kgz.uinjkt.ac.id/#presiden> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Organization> .
+<http://kgz.uinjkt.ac.id/#presiden> <http://www.w3.org/2000/01/rdf-schema#label> "presiden" .
+<http://kgz.uinjkt.ac.id/#provinsi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Location> .
+<http://kgz.uinjkt.ac.id/#provinsi> <http://www.w3.org/2000/01/rdf-schema#label> "provinsi" .
+<http://kgz.uinjkt.ac.id/#rasulullah_saw> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Person> .
+<http://kgz.uinjkt.ac.id/#rasulullah_saw> <http://www.w3.org/2000/01/rdf-schema#label> "rasulullah saw" .
+<http://kgz.uinjkt.ac.id/#rikaz> <http://kgz.uinjkt.ac.id/#dikeluarkan_dari> "perut bumi" .
+<http://kgz.uinjkt.ac.id/#rikaz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Harta> .
+<http://kgz.uinjkt.ac.id/#rikaz> <http://www.w3.org/2000/01/rdf-schema#label> "rikaz" .
+<http://kgz.uinjkt.ac.id/#saham> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Harta> .
+<http://kgz.uinjkt.ac.id/#saham> <http://www.w3.org/2000/01/rdf-schema#label> "saham" .
+<http://kgz.uinjkt.ac.id/#sapi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Binatang_Ternak> .
+<http://kgz.uinjkt.ac.id/#sapi> <http://www.w3.org/2000/01/rdf-schema#label> "sapi" .
+<http://kgz.uinjkt.ac.id/#sapi_berumur> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Binatang_Ternak> .
+<http://kgz.uinjkt.ac.id/#sapi_berumur> <http://www.w3.org/2000/01/rdf-schema#label> "sapi berumur" .
+<http://kgz.uinjkt.ac.id/#sapi_betina_berumur_1_tahun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Binatang_Ternak> .
+<http://kgz.uinjkt.ac.id/#sapi_betina_berumur_1_tahun> <http://www.w3.org/2000/01/rdf-schema#label> "sapi betina berumur 1 tahun" .
+<http://kgz.uinjkt.ac.id/#sapi_betina_berumur_2_tahun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Binatang_Ternak> .
+<http://kgz.uinjkt.ac.id/#sapi_betina_berumur_2_tahun> <http://www.w3.org/2000/01/rdf-schema#label> "sapi betina berumur 2 tahun" .
+<http://kgz.uinjkt.ac.id/#sapi_betina_umur_satu_tahun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Binatang_Ternak> .
+<http://kgz.uinjkt.ac.id/#sapi_betina_umur_satu_tahun> <http://www.w3.org/2000/01/rdf-schema#label> "sapi betina umur satu tahun" .
+<http://kgz.uinjkt.ac.id/#sapi_jantan_berumur_1_tahun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Binatang_Ternak> .
+<http://kgz.uinjkt.ac.id/#sapi_jantan_berumur_1_tahun> <http://www.w3.org/2000/01/rdf-schema#label> "sapi jantan berumur 1 tahun" .
+<http://kgz.uinjkt.ac.id/#sapi_jantan_umur_satu_tahun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Binatang_Ternak> .
+<http://kgz.uinjkt.ac.id/#sapi_jantan_umur_satu_tahun> <http://www.w3.org/2000/01/rdf-schema#label> "sapi jantan umur satu tahun" .
+<http://kgz.uinjkt.ac.id/#satu_tahun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Haul> .
+<http://kgz.uinjkt.ac.id/#satu_tahun> <http://www.w3.org/2000/01/rdf-schema#label> "satu tahun" .
+<http://kgz.uinjkt.ac.id/#seorang_muslim> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Person> .
+<http://kgz.uinjkt.ac.id/#seorang_muslim> <http://www.w3.org/2000/01/rdf-schema#label> "seorang muslim" .
+<http://kgz.uinjkt.ac.id/#seseorang> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Person> .
+<http://kgz.uinjkt.ac.id/#seseorang> <http://www.w3.org/2000/01/rdf-schema#label> "seseorang" .
+<http://kgz.uinjkt.ac.id/#surat-surat_berharga> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Harta> .
+<http://kgz.uinjkt.ac.id/#surat-surat_berharga> <http://www.w3.org/2000/01/rdf-schema#label> "surat-surat berharga" .
+<http://kgz.uinjkt.ac.id/#surat_berharga> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Harta> .
+<http://kgz.uinjkt.ac.id/#surat_berharga> <http://www.w3.org/2000/01/rdf-schema#label> "surat berharga" .
+<http://kgz.uinjkt.ac.id/#syariat_islam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Azas_Pengelolaan_Zakat> .
+<http://kgz.uinjkt.ac.id/#syariat_islam> <http://www.w3.org/2000/01/rdf-schema#label> "syariat islam" .
+<http://kgz.uinjkt.ac.id/#tabi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Binatang_Ternak> .
+<http://kgz.uinjkt.ac.id/#tabi> <http://www.w3.org/2000/01/rdf-schema#label> "tabi" .
+<http://kgz.uinjkt.ac.id/#tabi'ah> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Binatang_Ternak> .
+<http://kgz.uinjkt.ac.id/#tabi'ah> <http://www.w3.org/2000/01/rdf-schema#label> "tabi'ah" .
+<http://kgz.uinjkt.ac.id/#tepung> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Makanan_Pokok> .
+<http://kgz.uinjkt.ac.id/#tepung> <http://www.w3.org/2000/01/rdf-schema#label> "tepung" .
+<http://kgz.uinjkt.ac.id/#terdiri> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://kgz.uinjkt.ac.id/#terdiri> <http://www.w3.org/2000/01/rdf-schema#domain> <http://kgz.uinjkt.ac.id/#Lembaga_Pengelola_Zakat> .
+<http://kgz.uinjkt.ac.id/#terdiri> <http://www.w3.org/2000/01/rdf-schema#range> <http://www.w3.org/2000/01/rdf-schema#Literal> .
+<http://kgz.uinjkt.ac.id/#terintegrasi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Azas_Pengelolaan_Zakat> .
+<http://kgz.uinjkt.ac.id/#terintegrasi> <http://www.w3.org/2000/01/rdf-schema#label> "terintegrasi" .
+<http://kgz.uinjkt.ac.id/#tholhah_bin_yahya> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Person> .
+<http://kgz.uinjkt.ac.id/#tholhah_bin_yahya> <http://www.w3.org/2000/01/rdf-schema#label> "tholhah bin yahya" .
+<http://kgz.uinjkt.ac.id/#tokoh_masyarakat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Person> .
+<http://kgz.uinjkt.ac.id/#tokoh_masyarakat> <http://www.w3.org/2000/01/rdf-schema#label> "tokoh masyarakat" .
+<http://kgz.uinjkt.ac.id/#uang> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Harta> .
+<http://kgz.uinjkt.ac.id/#uang> <http://www.w3.org/2000/01/rdf-schema#label> "uang" .
+<http://kgz.uinjkt.ac.id/#ulama> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Person> .
+<http://kgz.uinjkt.ac.id/#ulama> <http://www.w3.org/2000/01/rdf-schema#label> "ulama" .
+<http://kgz.uinjkt.ac.id/#umat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Person> .
+<http://kgz.uinjkt.ac.id/#umat> <http://www.w3.org/2000/01/rdf-schema#label> "umat" .
+<http://kgz.uinjkt.ac.id/#umat_apabila> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Person> .
+<http://kgz.uinjkt.ac.id/#umat_apabila> <http://www.w3.org/2000/01/rdf-schema#label> "umat apabila" .
+<http://kgz.uinjkt.ac.id/#umat_islam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Person> .
+<http://kgz.uinjkt.ac.id/#umat_islam> <http://www.w3.org/2000/01/rdf-schema#label> "umat islam" .
+<http://kgz.uinjkt.ac.id/#umat_muslim> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Person> .
+<http://kgz.uinjkt.ac.id/#umat_muslim> <http://www.w3.org/2000/01/rdf-schema#label> "umat muslim" .
+<http://kgz.uinjkt.ac.id/#undang-undang> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Regulasi> .
+<http://kgz.uinjkt.ac.id/#undang-undang> <http://www.w3.org/2000/01/rdf-schema#label> "undang-undang" .
+<http://kgz.uinjkt.ac.id/#undang-undang_no_38_tahun_1999_tentang_pengelolaan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Regulasi> .
+<http://kgz.uinjkt.ac.id/#undang-undang_no_38_tahun_1999_tentang_pengelolaan> <http://www.w3.org/2000/01/rdf-schema#label> "undang-undang no 38 tahun 1999 tentang pengelolaan" .
+<http://kgz.uinjkt.ac.id/#undang-undang_nomor_38_tahun_1999> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Regulasi> .
+<http://kgz.uinjkt.ac.id/#undang-undang_nomor_38_tahun_1999> <http://www.w3.org/2000/01/rdf-schema#label> "undang-undang nomor 38 tahun 1999" .
+<http://kgz.uinjkt.ac.id/#undang-undang_nomor_38_tahun_1999_tentang_pengelolaan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Regulasi> .
+<http://kgz.uinjkt.ac.id/#undang-undang_nomor_38_tahun_1999_tentang_pengelolaan> <http://www.w3.org/2000/01/rdf-schema#label> "undang-undang nomor 38 tahun 1999 tentang pengelolaan" .
+<http://kgz.uinjkt.ac.id/#undang-undang_nomor_38_tahun_1999_tentang_pengelolaan_zakat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Regulasi> .
+<http://kgz.uinjkt.ac.id/#undang-undang_nomor_38_tahun_1999_tentang_pengelolaan_zakat> <http://www.w3.org/2000/01/rdf-schema#label> "undang-undang nomor 38 tahun 1999 tentang pengelolaan zakat" .
+<http://kgz.uinjkt.ac.id/#undang-undang_nomor_38_tahun_1999_tentang_pengelolan_zakat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Regulasi> .
+<http://kgz.uinjkt.ac.id/#undang-undang_nomor_38_tahun_1999_tentang_pengelolan_zakat> <http://www.w3.org/2000/01/rdf-schema#label> "undang-undang nomor 38 tahun 1999 tentang pengelolan zakat" .
+<http://kgz.uinjkt.ac.id/#undang-undang_tentang_pengelolaan_zakat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Regulasi> .
+<http://kgz.uinjkt.ac.id/#undang-undang_tentang_pengelolaan_zakat> <http://www.w3.org/2000/01/rdf-schema#label> "undang-undang tentang pengelolaan zakat" .
+<http://kgz.uinjkt.ac.id/#unit_pengumpul_zakat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Lembaga_Pengelola_Zakat> .
+<http://kgz.uinjkt.ac.id/#unit_pengumpul_zakat> <http://www.w3.org/2000/01/rdf-schema#label> "unit pengumpul zakat" .
+<http://kgz.uinjkt.ac.id/#unta> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Binatang_Ternak> .
+<http://kgz.uinjkt.ac.id/#unta> <http://www.w3.org/2000/01/rdf-schema#label> "unta" .
+<http://kgz.uinjkt.ac.id/#unta_betina_berumur_1_tahun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Binatang_Ternak> .
+<http://kgz.uinjkt.ac.id/#unta_betina_berumur_1_tahun> <http://www.w3.org/2000/01/rdf-schema#label> "unta betina berumur 1 tahun" .
+<http://kgz.uinjkt.ac.id/#unta_betina_berumur_2_tahun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Binatang_Ternak> .
+<http://kgz.uinjkt.ac.id/#unta_betina_berumur_2_tahun> <http://www.w3.org/2000/01/rdf-schema#label> "unta betina berumur 2 tahun" .
+<http://kgz.uinjkt.ac.id/#unta_betina_berumur_3_tahun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Binatang_Ternak> .
+<http://kgz.uinjkt.ac.id/#unta_betina_berumur_3_tahun> <http://www.w3.org/2000/01/rdf-schema#label> "unta betina berumur 3 tahun" .
+<http://kgz.uinjkt.ac.id/#unta_betina_berumur_4_tahun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Binatang_Ternak> .
+<http://kgz.uinjkt.ac.id/#unta_betina_berumur_4_tahun> <http://www.w3.org/2000/01/rdf-schema#label> "unta betina berumur 4 tahun" .
+<http://kgz.uinjkt.ac.id/#upz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Lembaga_Pengelola_Zakat> .
+<http://kgz.uinjkt.ac.id/#upz> <http://www.w3.org/2000/01/rdf-schema#label> "upz" .
+<http://kgz.uinjkt.ac.id/#usaha_produktif> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Pengelolaan_Zakat> .
+<http://kgz.uinjkt.ac.id/#usaha_produktif> <http://www.w3.org/2000/01/rdf-schema#label> "usaha produktif" .
+<http://kgz.uinjkt.ac.id/#utama> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Person> .
+<http://kgz.uinjkt.ac.id/#utama> <http://www.w3.org/2000/01/rdf-schema#label> "utama" .
+<http://kgz.uinjkt.ac.id/#yatim_mandiri> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Lembaga_Amil_Zakat> .
+<http://kgz.uinjkt.ac.id/#yatim_mandiri> <http://www.w3.org/2000/01/rdf-schema#label> "yatim mandiri" .
+<http://kgz.uinjkt.ac.id/#yatim_mandiri_surabaya> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Lembaga_Amil_Zakat> .
+<http://kgz.uinjkt.ac.id/#yatim_mandiri_surabaya> <http://www.w3.org/2000/01/rdf-schema#label> "yatim mandiri surabaya" .
+<http://kgz.uinjkt.ac.id/#yusuf_al-qardawi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Person> .
+<http://kgz.uinjkt.ac.id/#yusuf_al-qardawi> <http://www.w3.org/2000/01/rdf-schema#label> "yusuf al-qardawi" .
+<http://kgz.uinjkt.ac.id/#zakat_badan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Zakat> .
+<http://kgz.uinjkt.ac.id/#zakat_badan> <http://www.w3.org/2000/01/rdf-schema#label> "zakat badan" .
+<http://kgz.uinjkt.ac.id/#zakat_barang_tambang> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Zakat_Maal> .
+<http://kgz.uinjkt.ac.id/#zakat_barang_tambang> <http://www.w3.org/2000/01/rdf-schema#label> "zakat barang tambang" .
+<http://kgz.uinjkt.ac.id/#zakat_emas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Zakat_Maal> .
+<http://kgz.uinjkt.ac.id/#zakat_emas> <http://www.w3.org/2000/01/rdf-schema#label> "zakat emas" .
+<http://kgz.uinjkt.ac.id/#zakat_emas_dan_perak> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Zakat_Maal> .
+<http://kgz.uinjkt.ac.id/#zakat_emas_dan_perak> <http://www.w3.org/2000/01/rdf-schema#label> "zakat emas dan perak" .
+<http://kgz.uinjkt.ac.id/#zakat_fithri> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Zakat> .
+<http://kgz.uinjkt.ac.id/#zakat_fithri> <http://www.w3.org/2000/01/rdf-schema#label> "zakat fithri" .
+<http://kgz.uinjkt.ac.id/#zakat_fitrah> <http://kgz.uinjkt.ac.id/#berupa> "makanan pokok" .
+<http://kgz.uinjkt.ac.id/#zakat_fitrah> <http://kgz.uinjkt.ac.id/#dikeluarkan_sebelum> "kaum muslim selesai shalat Idul Fitri" .
+<http://kgz.uinjkt.ac.id/#zakat_fitrah> <http://kgz.uinjkt.ac.id/#diwajibkan> "setiap jiwa baik lelaki perempuan" .
+<http://kgz.uinjkt.ac.id/#zakat_fitrah> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Zakat> .
+<http://kgz.uinjkt.ac.id/#zakat_fitrah> <http://www.w3.org/2000/01/rdf-schema#label> "zakat fitrah" .
+<http://kgz.uinjkt.ac.id/#zakat_ghanam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Zakat_Maal> .
+<http://kgz.uinjkt.ac.id/#zakat_ghanam> <http://www.w3.org/2000/01/rdf-schema#label> "zakat ghanam" .
+<http://kgz.uinjkt.ac.id/#zakat_harta> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Zakat_Maal> .
+<http://kgz.uinjkt.ac.id/#zakat_harta> <http://www.w3.org/2000/01/rdf-schema#label> "zakat harta" .
+<http://kgz.uinjkt.ac.id/#zakat_hewan_ternak> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Zakat_Maal> .
+<http://kgz.uinjkt.ac.id/#zakat_hewan_ternak> <http://www.w3.org/2000/01/rdf-schema#label> "zakat hewan ternak" .
+<http://kgz.uinjkt.ac.id/#zakat_mata_uang> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Zakat_Maal> .
+<http://kgz.uinjkt.ac.id/#zakat_mata_uang> <http://www.w3.org/2000/01/rdf-schema#label> "zakat mata uang" .
+<http://kgz.uinjkt.ac.id/#zakat_penghasilan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Zakat_Maal> .
+<http://kgz.uinjkt.ac.id/#zakat_penghasilan> <http://www.w3.org/2000/01/rdf-schema#label> "zakat penghasilan" .
+<http://kgz.uinjkt.ac.id/#zakat_perdagangan> <http://kgz.uinjkt.ac.id/#dikeluarkan_dari> "harta niaga" .
+<http://kgz.uinjkt.ac.id/#zakat_perdagangan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Zakat_Maal> .
+<http://kgz.uinjkt.ac.id/#zakat_perdagangan> <http://www.w3.org/2000/01/rdf-schema#label> "zakat perdagangan" .
+<http://kgz.uinjkt.ac.id/#zakat_perindustrian> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Zakat_Maal> .
+<http://kgz.uinjkt.ac.id/#zakat_perindustrian> <http://www.w3.org/2000/01/rdf-schema#label> "zakat perindustrian" .
+<http://kgz.uinjkt.ac.id/#zakat_perniagaan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Zakat_Maal> .
+<http://kgz.uinjkt.ac.id/#zakat_perniagaan> <http://www.w3.org/2000/01/rdf-schema#label> "zakat perniagaan" .
+<http://kgz.uinjkt.ac.id/#zakat_pertanian> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Zakat_Maal> .
+<http://kgz.uinjkt.ac.id/#zakat_pertanian> <http://www.w3.org/2000/01/rdf-schema#label> "zakat pertanian" .
+<http://kgz.uinjkt.ac.id/#zakat_pertanian_dan_perkebunan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Zakat_Maal> .
+<http://kgz.uinjkt.ac.id/#zakat_pertanian_dan_perkebunan> <http://www.w3.org/2000/01/rdf-schema#label> "zakat pertanian dan perkebunan" .
+<http://kgz.uinjkt.ac.id/#zakat_perusahaan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Zakat_Maal> .
+<http://kgz.uinjkt.ac.id/#zakat_perusahaan> <http://www.w3.org/2000/01/rdf-schema#label> "zakat perusahaan" .
+<http://kgz.uinjkt.ac.id/#zakat_rikaz> <http://kgz.uinjkt.ac.id/#adalah> "zakat barang" .
+<http://kgz.uinjkt.ac.id/#zakat_rikaz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Zakat_Maal> .
+<http://kgz.uinjkt.ac.id/#zakat_rikaz> <http://www.w3.org/2000/01/rdf-schema#label> "zakat rikaz" .
+<http://kgz.uinjkt.ac.id/#zakat_rikaz_zakat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Zakat> .
+<http://kgz.uinjkt.ac.id/#zakat_rikaz_zakat> <http://www.w3.org/2000/01/rdf-schema#label> "zakat rikaz zakat" .
+<http://kgz.uinjkt.ac.id/#zakat_ternak> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Zakat_Maal> .
+<http://kgz.uinjkt.ac.id/#zakat_ternak> <http://www.w3.org/2000/01/rdf-schema#label> "zakat ternak" .
+<http://kgz.uinjkt.ac.id/#zakat_uang> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Zakat_Maal> .
+<http://kgz.uinjkt.ac.id/#zakat_uang> <http://www.w3.org/2000/01/rdf-schema#label> "zakat uang" .
+<http://kgz.uinjkt.ac.id/#zakat_uang_dan_surat_berharga> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kgz.uinjkt.ac.id/ontology#Zakat_Maal> .
+<http://kgz.uinjkt.ac.id/#zakat_uang_dan_surat_berharga> <http://www.w3.org/2000/01/rdf-schema#label> "zakat uang dan surat berharga" .
+<http://kgz.uinjkt.ac.id/ontology#Azas_Pengelolaan_Zakat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://kgz.uinjkt.ac.id/ontology#Binatang_Ternak> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://kgz.uinjkt.ac.id/ontology#Harta> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://kgz.uinjkt.ac.id/ontology#Haul> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://kgz.uinjkt.ac.id/ontology#Lainnya> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://kgz.uinjkt.ac.id/ontology#Lembaga_Pengelola_Zakat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://kgz.uinjkt.ac.id/ontology#Location> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://kgz.uinjkt.ac.id/ontology#Logam_Mulia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://kgz.uinjkt.ac.id/ontology#Makanan_Pokok> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://kgz.uinjkt.ac.id/ontology#Mustahik> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://kgz.uinjkt.ac.id/ontology#Muzaki> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://kgz.uinjkt.ac.id/ontology#Nisab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://kgz.uinjkt.ac.id/ontology#Organization> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://kgz.uinjkt.ac.id/ontology#Pekerjaan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://kgz.uinjkt.ac.id/ontology#Pengelolaan_Zakat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://kgz.uinjkt.ac.id/ontology#Person> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://kgz.uinjkt.ac.id/ontology#Regulasi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://kgz.uinjkt.ac.id/ontology#Tarif_Zakat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://kgz.uinjkt.ac.id/ontology#Zakat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://kgz.uinjkt.ac.id/ontology#Zakat_Maal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
